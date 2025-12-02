@@ -1,6 +1,6 @@
 # Task 2
 
-## Download qlora_lora_tinyllama.zip from [drive_link]()
+## Download qlora_lora_tinyllama.zip from [drive_link](https://drive.google.com/file/d/1ijBIy-_lRaZq_ujDbz-1V_q9vlTCeaeo/view?usp=sharing)
 
 
 ## Upload serve_api.ipynb and qlora_lora_tinyllama.zip to MyDrive 
