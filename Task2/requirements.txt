@@ -1,0 +1,8 @@
+datasets
+transformers
+bitsandbytes
+peft
+evaluate
+datasets 
+fastapi
+uvicorn[standard]
